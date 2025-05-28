@@ -1,19 +1,96 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+android:
+  label: Android
+  permalink: /android
+  description: Android 应用开发、Jetpack、Kotlin 相关技术
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+web:
+  label: Web
+  permalink: /web
+  description: 前端开发、JavaScript、TypeScript、框架应用
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+# ========= 补充常用开发标签 =========
+backend:
+  label: 后端开发
+  permalink: /backend
+  description: 服务器、API、微服务、云原生技术
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+database:
+  label: 数据库
+  permalink: /database
+  description: SQL/NoSQL 数据库设计与优化
+
+devops:
+  label: DevOps
+  permalink: /devops
+  description: CI/CD、容器化、云服务部署
+
+ai-ml:
+  label: 人工智能
+  permalink: /ai
+  description: 机器学习、深度学习、AI 应用
+
+mobile:
+  label: 移动开发
+  permalink: /mobile
+  description: 跨平台开发 (Flutter/React Native)
+
+ui-ux:
+  label: UI/UX
+  permalink: /ui-ux
+  description: 用户界面设计与体验优化
+
+testing:
+  label: 软件测试
+  permalink: /testing
+  description: 单元测试、自动化测试、QA
+
+tools:
+  label: 开发工具
+  permalink: /tools
+  description: IDE、调试工具、效率提升
+
+architecture:
+  label: 系统架构
+  permalink: /architecture
+  description: 设计模式、分布式系统、性能优化
+
+security:
+  label: 网络安全
+  permalink: /security
+  description: 数据加密、认证授权、漏洞防护
+
+git:
+  label: 版本控制
+  permalink: /git
+  description: Git工作流、协作开发技巧
+
+# ========= 技术栈专项标签 =========
+react:
+  label: React
+  permalink: /react
+  description: React框架、Hooks、状态管理
+
+vue:
+  label: Vue
+  permalink: /vue
+  description: Vue框架、组件化开发
+
+flutter:
+  label: Flutter
+  permalink: /flutter
+  description: 跨平台移动应用开发
+
+kotlin:
+  label: Kotlin
+  permalink: /kotlin
+  description: Android 官方开发语言
+
+spring:
+  label: Spring
+  permalink: /spring
+  description: Java 企业级开发框架
+
+python:
+  label: Python
+  permalink: /python
+  description: 数据分析、自动化、后端开发
