@@ -94,3 +94,8 @@ python:
   label: Python
   permalink: /python
   description: 数据分析、自动化、后端开发
+
+jetpack_compose:
+  label: jetpack compose
+  permalink: /jetpack_compose
+  description: Android UI 开发框架
