@@ -90,6 +90,11 @@ spring:
   permalink: /spring
   description: Java 企业级开发框架
 
+springboot:
+  label: Springboot
+  permalink: /springboot
+  description: SpringBoot 服务框架
+
 python:
   label: Python
   permalink: /python
